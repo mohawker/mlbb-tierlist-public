@@ -1,6 +1,7 @@
 # mlbb-tierlist-public
 Mobile Legends: Bang Bang dynamic hero tier list. Currently hosted at: https://mlbb.ninja/ 
-Codebase is kept private temporarily, will make codebase open source in the future. 
+
+Codebase is kept private temporarily, but will make codebase open source in the future after cleaning up/migration to Next.js
 
 Hero Tier List is calculated from Hero Win, Pick and Ban rates in Mythical Glory Ranked games on the Mobile Legends server. 
 Data is obtained from the official website https://m.mobilelegends.com/en/rank and various Liquipedia websites with Selenium.

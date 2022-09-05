@@ -14,11 +14,7 @@ Data is obtained from the official website https://m.mobilelegends.com/en/rank a
 ### Backend (DB + Endpoint)
 - Google Realtime Firebase
 ### Frontend
-- ReactJS (create-react-app)
+- ReactJS (Next.js)
 
 ## Screenshot of Webpage
 <img width="1136" alt="image" src="https://user-images.githubusercontent.com/48997733/187604509-3ecf3409-d03f-4f68-baee-754ef5aea56a.png">
-
-## Future Expansion
-- Will look to migrate to Next.js to support static site generation for improved performance
-- Hero Trends and individual hero pages for each hero

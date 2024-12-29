@@ -1,7 +1,7 @@
 # mlbb-tierlist-public
-Mobile Legends: Bang Bang dynamic hero tier list. Currently hosted at: https://mlbb.ninja/ 
+Mobile Legends: Bang Bang dynamic hero tier list. Was previously hosted at: https://mlbb.ninja/ 
 
-As of June 2024, we have around 400k monthly views and 76k monthly users.
+At June 2024, we had around 400k monthly views and 76k monthly users.
 
 ## Tech Stack:
 - Python3
